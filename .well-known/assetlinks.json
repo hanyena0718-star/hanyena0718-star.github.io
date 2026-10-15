@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.hanyena0718_star.twa",
+    "sha256_cert_fingerprints": ["78:10:6A:C5:4F:CC:16:EB:95:44:61:7A:D6:03:F9:A7:7C:EA:9C:AE:10:F0:1F:77:79:1D:2A:5D:20:FE:AC:BB"]
+  }
+}]
